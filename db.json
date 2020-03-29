@@ -1,0 +1,75 @@
+{
+  "operadoras": [
+    {
+      "nome": "Oi",
+      "codigo": "14",
+      "categoria": "Celular",
+      "preco": "2"
+    },
+    {
+      "nome": "Vivo",
+      "codigo": "15",
+      "categoria": "Celular",
+      "preco": "1"
+    },
+    {
+      "nome": "Tim",
+      "codigo": "41",
+      "categoria": "Celular",
+      "preco": "3"
+    },
+    {
+      "nome": "GVT",
+      "codigo": "25",
+      "categoria": "Fixo",
+      "preco": "1"
+    },
+    {
+      "nome": "Embratel",
+      "codigo": "21",
+      "categoria": "Fixo",
+      "preco": "2"
+    }
+  ],
+  "contatos": [
+    {
+      "nome": "bruno da silva",
+      "telefone": "9999-2222",
+      "operadora": {
+        "nome": "Oi",
+        "codigo": "14",
+        "categoria": "Celular",
+        "preco": "2"
+      },
+      "serial": "*?9ZF",
+      "data": "2020-03-28T20:00:21.367Z",
+      "id": 1
+    },
+    {
+      "nome": "SADRA MARIA OLIVEIRA",
+      "telefone": "9999-3333",
+      "operadora": {
+        "nome": "Vivo",
+        "codigo": "15",
+        "categoria": "Celular",
+        "preco": "1"
+      },
+      "serial": "HVD50",
+      "data": "2020-03-28T20:00:42.243Z",
+      "id": 2
+    },
+    {
+      "nome": "carlos MACHADO",
+      "telefone": "9999-9999",
+      "operadora": {
+        "nome": "Tim",
+        "codigo": "41",
+        "categoria": "Celular",
+        "preco": "3"
+      },
+      "serial": "H+*EE",
+      "data": "2020-03-28T20:00:56.155Z",
+      "id": 3
+    }
+  ]
+}
